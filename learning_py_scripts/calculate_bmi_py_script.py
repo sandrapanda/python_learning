@@ -1,4 +1,4 @@
-LEARNING PYTHON
+LEARNING PYTHON 2017	
 Script:
 patients = [[70, 1.8], [80, 1.9], [150, 1.7]]		## declare the dataset and its data
 
